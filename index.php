@@ -7,3 +7,10 @@ if(isset($_GET['load'])) {
   get();
 }
 ?>
+
+<html>
+<head>
+</head>
+<body>
+</body>
+</html>
